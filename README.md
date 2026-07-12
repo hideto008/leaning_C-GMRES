@@ -28,4 +28,4 @@
     - GMRES
 
 - 非線形最適制御
-    - C/CMRES
+    - C/GMRES
